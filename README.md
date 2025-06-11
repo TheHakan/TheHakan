@@ -75,6 +75,16 @@ Version: 1.0.0
 
 ---
 
+### 👁️ INTRUSION TRACKER
+
+<div align="center">
+  <h4>Monitoring system access | Tracking digital footprints</h4>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=TheHakan.TheHakan&title=DETECTED%20INTRUSIONS&color=3FE30F&style=flat" alt="intrusion counter" />
+  <p><i>All access attempts are logged and monitored. Your digital signature has been recorded.</i></p>
+</div>
+
+---
+
 ### ⚠️ SECURITY PROTOCOL
 
 <div align="center">
