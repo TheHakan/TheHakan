@@ -1,3 +1,11 @@
+<!-- 
+DedSec Profile README
+Author: Khagan Karimi
+Copyright © 2025 Khagan
+Contact: khagankarimi@gmail.com
+Version: 1.0.0
+-->
+
 <h1 align="center">// SYSTEM BREACH SUCCESSFUL //</h1>
 <h3 align="center">DedSec Operative: Khagan | Full-Stack Hacktivist | Digital Resistance 💀</h3>
 
@@ -63,6 +71,21 @@
 
 <div align="center">
   <h4>💼 Need a system breached or a digital weapon deployed? Initiate contact through secure channels.</h4>
+</div>
+
+---
+
+### ⚠️ SECURITY PROTOCOL
+
+<div align="center">
+  <code>
+  [ACCESS_RESTRICTED]: This DedSec manifest is protected under digital rights protocol
+  
+  Copyright © 2025 Khagan. All rights reserved.
+  
+  Unauthorized replication, distribution, or modification will trigger countermeasures.
+  Permission required for fork operations. Attribution mandatory.
+  </code>
 </div>
 
 <!-- WARNING: This README uses custom styling that works best in dark mode. For optimal experience, switch your GitHub to dark theme. -->
